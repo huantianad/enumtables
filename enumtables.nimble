@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "huantian"
-description   = "Fast table-like wrapper for enum-indexed arrays."
+description   = "Minimal table-like wrapper for enum-indexed arrays."
 license       = "MIT"
 srcDir        = "src"
 
